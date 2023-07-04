@@ -1,3 +1,4 @@
+# comment
 import numpy as np
 
 def softmax(x): #Normalizacija output sloja na 0.0-1.0 - Oduzmemo maksimalnu vrijednost radi stabilnosti / velikih brojeva
